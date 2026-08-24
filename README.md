@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Pixel Wanderer Graphic Header -->
-  <img src="images/wanderer_banner.png" align="center" width="100%" alt="Greetings, wanderer! I'm Abdullah!" />
+  <img src="https://github.com/argentium0/argentium0/blob/main/images/mascot.gif?raw=true" align="center" width="100%" alt="Greetings, wanderer! I'm Abdullah!" />
 
   <br /><br />
 
