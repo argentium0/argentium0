@@ -190,10 +190,7 @@ I am a **Computer Science Student at COMSATS University** engineering software a
 
   <br /><br />
 
-  <!-- High-Contrast GitHub Streak Tracking Card -->
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=argentium0&theme=tokyonight&background=0D1117&border=30363D&stroke=F28221&ring=F28221&fire=F28221&currStreakNum=00FFFF&sideNums=E6EDF3&sideLabels=00FFFF&dates=8B949E" alt="GitHub Streak Stats" />
-  </a>
+  
 
 </div>
 
