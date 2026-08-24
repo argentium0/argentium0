@@ -180,12 +180,12 @@ I am a **Computer Science Student at COMSATS University** engineering software a
 
 <div align="center">
 
-  <!-- High-Contrast Side-by-Side GitHub Stats & Top Languages Cards (TokyoNight / Cyber Theme) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=argentium0&show_icons=true&locale=en&theme=tokyonight&bg_color=0D1117&title_color=F28221&text_color=E6EDF3&icon_color=00FFFF&border_color=30363D&count_private=true" alt="Overall GitHub Stats" height="175" />
+  <!-- High-Contrast Side-by-Side GitHub Stats & Top Languages Cards -->
+  <a href="https://github.com/argentium0">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=argentium0&theme=2077" alt="Overall GitHub Stats" height="175" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argentium0&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&title_color=F28221&text_color=E6EDF3&icon_color=00FFFF&border_color=30363D&hide=html,css" alt="Top Languages Ratio" height="175" />
+  <a href="https://github.com/argentium0">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=argentium0&theme=2077" alt="Top Languages Ratio" height="175" />
   </a>
 
   <br /><br />
