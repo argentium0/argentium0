@@ -224,6 +224,4 @@ I am a **Computer Science Student at COMSATS University** engineering software a
 
   <br /><br />
 
-  <p><i>Crafted with precision for <b>Muhammad Abdullah</b> • COMSATS University</i></p>
-
 </div>
